@@ -1,0 +1,26 @@
+{
+  "name": "Eddie Rowe",
+  "age": 44,
+  "address": {
+    "street": "Mivo Boulevard",
+    "city": "Vepnuniv",
+    "state": "IL",
+    "zip": "79290"
+  },
+  "contact": {
+    "phone": "(667) 684-7230",
+    "servicePhone": "800465254"
+  },
+  "birthday": "1980-10-27T11:13:42.788Z",
+  "ip": "212.20.174.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Gimca zacnaf bijfo ko za istodpig tosais er mi analiluc ba das ibsidbub agievegib duwbe pazzub gipmebe. Du ab achu esovtu wa uri iphup goha jibgafdol mun icu cunisnig ib ja vibivho ot imati. De kag ra zaneena cu ucu abka ma dukup sif zi bal mago nehunij nuwopise sekiru. Mazufa jaccecuf fopwuha ta ku widezuju lama zujzugibu retace ravsit sozaga rudet tucdu ifo kefworuf uwjepcah geumevo.",
+    "bio": "Feages jif bab aboes weje amfop aj wazatgef niegez vob pe ejnal ro ipa. Samol bicnih kujam gow ub ufivojde jesuvva inomakif et tup si ef it jovmip. Zuvev vafrog egjijid vo gigoha tu evunu wethoziki api tu muzi hu diohlo ehu lasa."
+  },
+  "apiKey": "53da555986a8bfc22d3a231390c15a9dbea6664231719d6a7145a65af1ec92ea",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
