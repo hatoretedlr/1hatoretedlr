@@ -1,0 +1,26 @@
+{
+  "name": "Hettie Cook",
+  "age": 51,
+  "address": {
+    "street": "Cebu Key",
+    "city": "Hofzalo",
+    "state": "AK",
+    "zip": "70776"
+  },
+  "contact": {
+    "phone": "(645) 627-6752",
+    "servicePhone": "800524486"
+  },
+  "birthday": "1973-05-23T04:34:43.845Z",
+  "ip": "79.66.43.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Kobiob siafsa vatoni ise jejvaso mo af uvafig biv kub iweto infofja hoat jimawes kilu zaje otrefaf morit. Mekiko kebpagla kejni ti fi tojwalto re ockabtaf huf zojpatzom kidvenil su. Ga tor ri orfivib azgebij zoacabo tuola ruzvegim sucjiw tewcunir pambegik ted hosce. Dah iw pineni ru nibpuni tutgoob tukuj du ejiholad he nul duru guasutev ipfize suif.",
+    "bio": "Jul ke wadrec jofo gu safho julu fezib dufla covemfe buiszol po zip. Buf adusocfob cup ugiog luffog wosij hobzo ziuvli itaovi ji miwpu dep ta ne ludduvik. Wolevo zeof fuszoson fe an nufopme vari mu gacukmoz mum vig cebfel ulakino mamorobih bigluzipu bo azadek uwece. Aguiteve vuewala zatiduzu faricroj habo zo nuwu zu led jutketug gi tuz pog tes rivtehkan tiaguku ruf. Cevkali huc paajobej morbewelu misvo iheom adjupo lat zesohkoc sofuku sacufav rapap azuov mitma zoj lugi wogcuvana of."
+  },
+  "apiKey": "0b596903bff48b19dbcdd64372fd693a59594e3c2406523c6afb4f0df1591ca7",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
