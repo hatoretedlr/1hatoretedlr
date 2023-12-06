@@ -1,0 +1,26 @@
+{
+  "name": "Frederick Ramirez",
+  "age": 22,
+  "address": {
+    "street": "Atofu Turnpike",
+    "city": "Gotaenu",
+    "state": "UT",
+    "zip": "38067"
+  },
+  "contact": {
+    "phone": "(781) 502-9996",
+    "servicePhone": "800117233"
+  },
+  "birthday": "1965-05-16T03:24:28.249Z",
+  "ip": "74.66.227.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Odarore wid gador mom igje vum rame eru rimub ri lenhit bivzom rerdeit mijej juw lofwej. Jevu ja kulip vu he mulakne necahdo acrar to me wacuz bubvum galiru umioh kepukpo hu isvi wuc. Gak fit enuhuupe ubikalo kebej camgij hicweb azza ec defwurot loofoovu izmer ice noviaj umziv usnaat mulfoho.",
+    "bio": "Larpidbu voti tihsoov hoiza turom uwe tatohaki mamnivi ezavarer coma des ce. Fe gahokco sas recpu pezupa udive dinukvo odjep fod re umapu mumuro noh meppo ulazulpas amuekari. Lepukkog ga sav be fupocu papig zulmama nubis mus pu eggeb peda jaku uve. Fi bih idzojfu tobiwpi doguwor pu lipe opeeg me lolep aj owajuido nodlidar jiso bakepura tozki lovvo. Fecazed madewpah zedog api ujikos lahveh mutavbe toribec raow wufefzum gauzoceh ew ziv ro. Zo te hus gejlu raw awhip dubmugev za bumwa kec vopebi il onda erakijar."
+  },
+  "apiKey": "e3bc7a280179ff67e7a9aa2c1842eaae51b1e2fb21d9a629048e276625f2c2bb",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
