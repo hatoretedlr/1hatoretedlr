@@ -1,0 +1,26 @@
+{
+  "name": "Mason Martin",
+  "age": 22,
+  "address": {
+    "street": "Hehru Circle",
+    "city": "Hemitem",
+    "state": "NJ",
+    "zip": "87639"
+  },
+  "contact": {
+    "phone": "(770) 994-9399",
+    "servicePhone": "800127518"
+  },
+  "birthday": "1964-06-20T09:46:18.898Z",
+  "ip": "42.17.131.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Soc sohiku ron bi divjo ruwup figajli felvi tucuj aza le fozge no facmiaza opuze. Uduneb fadmo duwoap gizab keve bomaih boetaji duot ter ewo kiupon suhavuz gamkeh enelu sisioho weksu ruhda. Ta avfafjo anohe to hikelugo hoc vodefro nus suwto ununeku korebfij idi zozilba wilmi mi.",
+    "bio": "Ure soha avbagegi jufodpa celti ovo mob mofu mofi vo izile du kibij dufu. Ruamu ovija sikuca eh gedin zeb irbow tat icetenun kalmo ziew aco. Deh diva zilte zijil veseniiv sarer daczoj isatju daj benuc sid eniahup wi soda mihdikij girfo if. Ber ofo uz zosef erivu zudwitjaw siv zarin ojanaru ezbo oniwa re reg caz hemicli nusi. Cogjo di duriba lap wog upi halewu gehaved jowjatu jespa vawlec kipe fomi imu tenzissa jafivjum le rol. Gedovef rijciza misna jinofo iv sap we huzjecogi ofi vewal du keh mekbat regceef zadal ce umagec. Jujoada mohlofug zaj megposo metgit estu apefosal ditukvur nema evo bozi keg."
+  },
+  "apiKey": "f67ecbba9d05973ecd065e80da3e4071a777f8bef2b6a02133952ca5cfabd270",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
