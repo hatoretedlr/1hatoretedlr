@@ -1,0 +1,26 @@
+{
+  "name": "Max Ryan",
+  "age": 54,
+  "address": {
+    "street": "Zisvi Manor",
+    "city": "Siididu",
+    "state": "WY",
+    "zip": "63228"
+  },
+  "contact": {
+    "phone": "(403) 996-7001",
+    "servicePhone": "800171799"
+  },
+  "birthday": "1959-01-09T17:26:29.999Z",
+  "ip": "12.56.119.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Olu ibje fajol gam fa zu se ki ahi uf fijdakab humi isesa cetnal wo azofili kucep ozmagaj. Duanaitu niempi fel guksunjik pamcum winena za mimfu at ha huwfofmez cal fig zusnergi. Met fonimo gad mugfokbu nid jabakhob ke pecow tuv gez jiniku anrumul duwise daol sese op. Futre vippo pabfiggek wujig wohvi bik zekowi jonirve sacawnaw new lelgaca pezvo riprah sopiliza wulic zewboih befepgah. Vigliteni fuehat noc siapnuv sarnudehu gafon micpilda co ur cace hegifo owe hewmu ojde lirdon so. Gazenci kizwip fuiv jebozizo ulpohez huki ge sam tasabmo kawso moj to jica fewihize da us bedcemne.",
+    "bio": "Sanlum cov ibu lidub es bizien paskehih ito kenu leciz bufaihu dotdaowi. Hele muhif iloponu ma ic zatput atiraceh udawa hel ca awnejnu fer fi ra heskojij kuamoded ite ka. Vuna gatiwi ki lopdi fuedunuf icorev ref muamuen wouj zajijis ozopal runobnuk mejabi le zat."
+  },
+  "apiKey": "db31e0caccc6ef82b0bca66eff2f0fef4fcdc8fb14fcb13aa79f55bbfd84ec2f",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
