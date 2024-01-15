@@ -1,0 +1,26 @@
+{
+  "name": "Craig Little",
+  "age": 54,
+  "address": {
+    "street": "Romo Highway",
+    "city": "Latdiaf",
+    "state": "MT",
+    "zip": "98267"
+  },
+  "contact": {
+    "phone": "(302) 664-7699",
+    "servicePhone": "800728181"
+  },
+  "birthday": "1991-02-03T08:35:32.989Z",
+  "ip": "12.53.166.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Pe lit cidec to tasese mosdev galgij degaz cozales bojah arogigcuc irobew mivecma riz ru avra. Run co nilkuamu oze inpazev wi kumuble lus ju mollevu kos za ce ut devnal. Vubvogo egudiij elez upe cajmu ucouv vaw tesizi eme devjubi mejoksaf pe bu ebabo.",
+    "bio": "Kacbuh ojhe hu mamuno alo lot rofmeh gede bitco ez fuma ja tagrofwa tivnib. Lahuzo las tun bob gehcu rep ru dogbeh fenbifdij li lonlo urigmi vu huevezo festuglik selohu so. Reubetid lojiopi zisgokos fazuor voefi wab emohim wuilo kanwahmup igpa so lu tamufhol wuv lanun."
+  },
+  "apiKey": "59faf11c0cbed5ae882fc2406968cf666b0a19015c6d7178dd869379f84e4a0a",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
