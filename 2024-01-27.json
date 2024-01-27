@@ -1,0 +1,26 @@
+{
+  "name": "Luke Jackson",
+  "age": 53,
+  "address": {
+    "street": "Vivu Square",
+    "city": "Cuekewi",
+    "state": "AK",
+    "zip": "73270"
+  },
+  "contact": {
+    "phone": "(653) 234-5712",
+    "servicePhone": "800342757"
+  },
+  "birthday": "1988-12-28T20:25:12.145Z",
+  "ip": "227.142.152.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Beacoci motdefi bur loleh elelisum ohkez fa ovfibdep jer juhoalo vuafgij ada obtedos aczo karfem. Vilsasbaw upinabimu igufita tuhjac suoh pahka ha asto ki za watgip zoldifdon vulo cem dog avovaze. Wihaus cejfe picug hecsuvis jofumhis zasik livo dofer pufak bupvobva venlerig jukluv zocawonic. Luvgif lu norutofo botda bu vingeucu upogiik ne diodraj bonerda ufavaku haspi.",
+    "bio": "Je atehi ninov asuvioga tipleh mizolvi obwugac zijaduno kubi ad ho niwpa ijodermu vun. Wuul alkinre odehevo hifri entagaf solig efesofom hode afagan tetpok ac cez. Fajup ne teluwse ji ja nagzoni tomso rerlaz sec oro pas hel kutonhej nacfad tovatge ga eb. Rus wehlujmi pifub timid nefupvas hanwazuh eja julzoh ozirukab cadar jekeg ebipamu. Falikru gusvul to gonac de lafid onioz wir jez fargu behikhak zimsu. Fec debook ra bibfis uc nuzeb oczubi pifuf haj asa ducafiw da."
+  },
+  "apiKey": "355e148ff60f81939d0a356c07cd0b4c1daf4721d28669ef56f60c391dab120b",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
