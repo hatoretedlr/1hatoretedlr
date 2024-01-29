@@ -1,0 +1,26 @@
+{
+  "name": "Larry Barker",
+  "age": 46,
+  "address": {
+    "street": "Wasas Highway",
+    "city": "Zifugejo",
+    "state": "SC",
+    "zip": "78274"
+  },
+  "contact": {
+    "phone": "(410) 859-8587",
+    "servicePhone": "800877941"
+  },
+  "birthday": "1977-12-02T10:32:56.613Z",
+  "ip": "40.26.26.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Rorvewe vuf vudavku wit ba it mip zoesi furehi hakarhi te won ub dudujav nu. Pub luriev uwowogavi nizjomti ipwikiv vac ume cucgi zibawmur li ge ej ru we pesu. Powe ulmipu cahvu vauz garmat ej hud nufinot pioz cuge kafusah orvejfe nap ebwac oj.",
+    "bio": "Pap nigogfi wun jiwibel wuk kurwak busze inihbof vaazu mab fovumul okamatig apma wihis ud. Ihoilaob pin sabaktud ejluvwa mo te fafmim muwnezfo sevfopseg cewev we dub jas jevizo ev nagvurvuk wu. Ewuva cema vad jujueze siz atedi jetowge awo kuh nedeif munne fi. Soz todujju pocciv fo ki vi ube ulofow gosja pa olpab usuvelu cewonoh ehobi bakpirufe bul."
+  },
+  "apiKey": "bfe8b556b0160b6f943f87a3cdc24f66f647683d50fbd83f0da5856824fffc70",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
