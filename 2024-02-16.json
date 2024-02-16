@@ -1,0 +1,26 @@
+{
+  "name": "Myra Graham",
+  "age": 24,
+  "address": {
+    "street": "Fazcav Ridge",
+    "city": "Ganefpub",
+    "state": "TX",
+    "zip": "20688"
+  },
+  "contact": {
+    "phone": "(770) 956-7991",
+    "servicePhone": "800945145"
+  },
+  "birthday": "1960-09-22T16:48:37.929Z",
+  "ip": "19.245.205.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Ana vabanuci zudsopto po fozpeeke afsow navlow zemriove on afe limcujji hamepoc gucehzo. Luh weoh nukvijik wahuvo jimvajdun kezub zofob kic ze saci hurip rumaasa. Rawbop tilekrav daful cockerlu hovhos su fatcuv zaw tit zamunu duszu mogveeda sig.",
+    "bio": "Teet repid zanwesop tew iz ewlalla kijotvuc wevoge boromjuh tiivitag maj fok jeppuc kog merze. Jolduh pizgazjad teavzuv ije isi lakpifpac wez si eko hedefif cigafkek ka ijopo vah ne nu ewekehah bat. Feja ekatacal jonlus ortu fujzavjo ufa wazu pecebu wivsov fohruih pavifa doh tej giro ra muruce."
+  },
+  "apiKey": "abcd1801f4f2fdeb9094545b3992447f7db604ba9ae616188b83fdcff4ee9170",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
