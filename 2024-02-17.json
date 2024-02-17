@@ -1,0 +1,26 @@
+{
+  "name": "Ola Green",
+  "age": 49,
+  "address": {
+    "street": "Napov Manor",
+    "city": "Ejeopehon",
+    "state": "KS",
+    "zip": "82992"
+  },
+  "contact": {
+    "phone": "(684) 825-1185",
+    "servicePhone": "800316198"
+  },
+  "birthday": "1983-08-17T23:48:29.850Z",
+  "ip": "58.111.103.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Zir majto uteruf devsiv efiwa ijafka jaz meerfi hiw lapnire gepfu rasat rono uh go kilezes jap rebaamu. Du pakhig wekup igsihu ewzi esapujfan bomtollir guswok lapihu degiza elkucbu mezomi lo. Toj low naguita biob vussis obueb robeckul jo caj henfocve ol lelebu. Bu cef sovialu jakibac suj kojo fitu goopcop odava tidet julimtep ancohi ocjek huz.",
+    "bio": "Nod ve sus wannacba keinaaf mevedgiv aru ba umo fotkiric wu diw van. Togev fu edrutkeb ahfanam guwebagul jeug uwiijihi dervalok odapat ruc ba itavugcin uze soj kihpo jehiduk gis. Win zoatha vanwi pisu ven id imlu id fi hacjona bohkudoru ticji al do kimvohab ciwju. We jof nek wu zugiham nowhepbe dewsad ru jurfisoh acluf cerir fe hu ruok car sahav olavugo. Za mor owacupe sedo parjeh ore ogu ehaulwec vuh avmija nija tohaano tahkocke ugzad neufug jez. Kosocno avnuok tesuruzi leki bekki kudnom uhahupu sasrodsaw vojat zo raurceb gi upnupom ihuneppej sub gak."
+  },
+  "apiKey": "992af23a8a74a8bd138f372966d0ff9f65f92aebd5234c26025aaf6561b91e4e",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
