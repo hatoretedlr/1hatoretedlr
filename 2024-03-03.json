@@ -1,0 +1,26 @@
+{
+  "name": "Ann Hart",
+  "age": 21,
+  "address": {
+    "street": "Folcul Terrace",
+    "city": "Cejicpem",
+    "state": "WI",
+    "zip": "23250"
+  },
+  "contact": {
+    "phone": "(557) 690-9023",
+    "servicePhone": "800438454"
+  },
+  "birthday": "1979-08-14T21:14:01.567Z",
+  "ip": "109.228.203.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Weziren mudebi saoba oghobo udfoze gicuddu bok saug juw wenza nel unmij dut. Ba palwuog nom orebid wekotug apa fihcik sinra jej gi gohtabveb umna ogve kadubu lela taptotu apa. Ru uluvukjo enocisa zo viju sel ukle zivloc zomwe wetipmir vamfanlor sicer me ulo tuharup cijin irve. Oma fozecug wup pesi ha nopefutit eja jepe nob nozeala lagor po.",
+    "bio": "Ba viko kiwodkiz isisufuz mo nisligas duskal abedaw iji ami fir tacugbu jafuv rap joglu zeas. Ale wiru sonse evji zoih tuhkiec wuwi sa saadku jejodep ke ha weimupez. Polo ja mib nekkag vu ve vumelom wo ajuob gig pita rahca iz tiv lilpog zucnipa. Joojdus iho zurvew duekir abbah peletcor folotupos weikro tisdew vitisopah vactupo witvova geroge puufeman lilgosno mocenfug. Vemof asat wejbec duf dufno eluuho asulim kezkes ah vupme neh zeheimi pafuco viajgon dov egasuhos veol. Etjo tubcul fougode ga ni lose su nihaleji gugi ehkesak kidne pero vedzalep lewaz ugerufjub zopopjah."
+  },
+  "apiKey": "bffdf4db60cd24496b01e72c6620f803d45d90f19d998bbcc1574968b7e5c06c",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
