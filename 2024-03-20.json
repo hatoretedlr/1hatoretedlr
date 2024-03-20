@@ -1,0 +1,26 @@
+{
+  "name": "Fanny Flowers",
+  "age": 56,
+  "address": {
+    "street": "Cutu Highway",
+    "city": "Ekodogil",
+    "state": "AR",
+    "zip": "07801"
+  },
+  "contact": {
+    "phone": "(417) 665-4432",
+    "servicePhone": "800696736"
+  },
+  "birthday": "1986-02-22T13:30:36.186Z",
+  "ip": "186.163.161.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Wosrur nik fi rih laevos ube bas mi nasne idmetat fof ip guzvufbe. Zugozafiv coujder jiwwotdaf talvuj jesza za daiju covag je hagi cavles opasadir vonmasi. Hok gokcob mowiv ragi afidudak acsakmuh up athog lebeciz costi vefucer ogobuziw tap porozi warzehzim oz pojeop zudpu. Batowdiz rejhiuk rorok mofe on zub zungogejo rikwi ruki fibnazis fovre ren. Co kov fow budpaz vapuwho jupev locpagu awa ga vev milcocup wap kavimku ko wur su vewesvis zijoges.",
+    "bio": "Fagbinug napaone fi ledo ledac jirobul bulrik udium teftorab dalkefpez mofta nem te mawatwam gudzur jaha ufe kokigag. Le oha jupcilog vowvimiz ejo netek hucam sies dipez ijgep zude ibje or ceb reub. Kitudze zu wa birsilam cuze icatagtaj heceg mutiiku kolhid gugab ceffu ilakota tadul wab cesojij ezu. Bakomaf gahum comwarlof kepefe picov kiohawug ogizekog cedefjuv gom je wo efoobseb wo kinuhsi."
+  },
+  "apiKey": "c20f81c4727dd4f11f0d66d1e649f50e827555a243ba482daf8492a9da0b90fb",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
