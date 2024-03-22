@@ -1,0 +1,26 @@
+{
+  "name": "Randall Johnston",
+  "age": 30,
+  "address": {
+    "street": "Samoze Terrace",
+    "city": "Dibuus",
+    "state": "GA",
+    "zip": "50168"
+  },
+  "contact": {
+    "phone": "(637) 583-3866",
+    "servicePhone": "800612538"
+  },
+  "birthday": "1986-06-10T04:03:59.039Z",
+  "ip": "107.133.204.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Weacaipa herlebbum wos iwodu rujiw mewfenen wage kaweev wa ju runwotsak wa pewurlok wubzes. Eto ejo hamehtop tewi piru ocizo zodnif ezuhokosa su li kepzas kuteku zec mahdimhi gijsihu fos. Kamape saucohon zekve tijwa zaw havocces adduj kusvufi joatu hav ufite pirdu luondel venim genlozoni ihaj ibe. Caemi iroh oginic cizu vu hot serkefta focur ijrovbe okagisiv rurko or bantazoz.",
+    "bio": "Motidupa kej no jioc izegonuh umkoh ri modujafo laimugof wo pupsat ihaho jolpiksoz mo la. Eh jab muvkof piduzu pir zi feab gik ogiwomiw keedu kak gaddoh sa mudo fowon feba. Rorurov cut kuujo udawujuj ci telu teido ojemagah tivutobak navkaf vu muvhavjo fizadca kinidmez wegiliz. Ko wahablak porruoc tiiluine la nij tenar rasfascen dib ijo boabni zubco vaefecer og. Dompim ce zuluvi ozeinabe awe mit veseg emena ipegupah vivgup canri go do ce vuonol ojduaje gevlutan. Sadol tukozo zo ji zec mefev wiwi koja beswav gutka dec nesom geviki ledmo pegrog det zopmuf buis."
+  },
+  "apiKey": "37faeb9b6f6b920ed356a16e9c1cc8df858de474ade2975823308a7daab7e376",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
