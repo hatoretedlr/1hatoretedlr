@@ -1,0 +1,26 @@
+{
+  "name": "Bettie McCarthy",
+  "age": 40,
+  "address": {
+    "street": "Nisu Road",
+    "city": "Pecafja",
+    "state": "WY",
+    "zip": "11636"
+  },
+  "contact": {
+    "phone": "(648) 549-6020",
+    "servicePhone": "800811175"
+  },
+  "birthday": "1975-06-30T12:18:08.552Z",
+  "ip": "57.160.170.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Paranve huszug pec hadfil zad te watuh ecgo dub rajtokam futnag va lehviedo ulu zaho oze cerzum iv. Kawnep meijated vo icara de zughohve tucok socdeh uc derifiho ipo pab obi jatreci gojja. Zafsika hinosuke vobag ce mab de rit cunsiko migoj fu gubip wiladjic. Wi log zis nig hus vefa rab ofavabu manpiwe taoc il et vumfap. Luovivu po buv lonjul waditive tuara zel ap kuj ces mojor cem rohfaoh hosrel lisur rejifvus camik. Wud ufoba nud morez fus ni mauh wilowham ju pegoh vev kam hi.",
+    "bio": "Tob ahe highiceme co ozibac de nirew bigu penov hikow patha ruwopve la giccecu picke zusoso cawe. Tipi fumo azoci kuvoz rez jodildu beefepec ugjopibi resuj latiga wiwajcaj vafueli dikuab ku. Sen nassasez je viv osneb zi wazbihez takodec ti vetbi kaareton ji wis ulinu. Odarozu kafbo gazha hilfi kesu ihcov nofelape cowhorge zetowpam fopova joki zuke hup upji ibaod."
+  },
+  "apiKey": "beae50f3bada50f5eb2f053be97d3654402142d7e90df9e9a79cdfb5263014e2",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
